@@ -2,7 +2,7 @@
 
 A repository of custom blocks for nTop. 
 
-**NOT VERSION CONTROLLED.** **NOT FOR OFFICIAL USE.**
+**NOT VERSION CONTROLLED.** **NOT FOR OFFICIAL USE.** **NOT AFFILIATTED WITH NTOPOLOGY**
 
 ## Usage Instructions
 
