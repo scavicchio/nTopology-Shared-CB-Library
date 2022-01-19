@@ -1,4 +1,4 @@
-# nTopology-Shared-CB-Library
+# nTopology-Shared-CB-Library.
 
 A repository of custom blocks for nTop. 
 
@@ -14,7 +14,7 @@ With Github Desktop:
 
 To recieve updates as new blocks are uploaded/updated, open the github desktop client and "fetch origin" to pull changes
 
-With local download:
+With local download
 
 1. Download this repository and/or any blocks you want.
 2. Import blocks one-off into your nTop notebooks, or save these blocks in your "My Blocks" folder.
